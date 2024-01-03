@@ -20,17 +20,21 @@ const Feedback = () => (
         <div className="feedback-gradient" />
         <div>
           <h4 className="font-bold sm:text-[32px] text-[26px] sm:leading-[40px] leading-[36px] text-white">
-            Om Patel
+          Você está 
+pronto para a transformação?
           </h4>
-          <p className="mt-[8px] font-normal sm:text-[18px] text-[12px] sm:leading-[22px] leading-[16px] text-white">
-            Founder | Metaversus
-          </p>
         </div>
-        <p className="mt-[24px] font-normal sm:text-[24px] text-[18px] sm:leading-[45px] leading-[39px] text-white">
-          “With the development of today&lsquo;s technology, metaverse is very
-          useful for today&lsquo;s work, or can be called web 3.0. by using
-          metaverse you can use it as anything”
+        <p className="mt-[16px] font-normal sm:text-[24px] text-[18px] sm:leading-[45px] leading-[39px] text-white">
+        Você está pronto para uma jornada incrível rumo ao seu potencial máximo? Chegou o momento de decolarmos juntos em direção ao sucesso que você merece!
         </p>
+        <button
+          type="button"
+          className="flex items-center h-fit py-4 px-6 bg-[#ffffff29] rounded-[32px] gap-[12px] buttoncontato"
+        >
+          <span className="font-normal text-[16px] text-white uppercase">
+            Entrar em contato
+          </span>
+        </button>
       </motion.div>
       <motion.div
         variants={fadeIn("left", "tween", 0.2, 1)}

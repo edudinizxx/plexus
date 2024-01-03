@@ -135,6 +135,11 @@ html {
   filter: blur(150px);
 }
 
+.buttoncontato {
+  margin-top: 27px;
+  display: block;
+}
+
 @layer utilities {
   /* STYLES */
   .innerWidth {
