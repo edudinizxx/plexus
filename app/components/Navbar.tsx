@@ -17,6 +17,7 @@ const Navbar = () => (
         <Image
           src="/logo.png"
           width={136}
+          height={100}
           alt="search"
           className="object-contain"
         />

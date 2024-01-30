@@ -1,6 +1,6 @@
 "use client";
 
-
+import Image from "next/image";
 import { motion } from "framer-motion";
 import { NewFeatures, TitleText, TypingText } from "../components";
 import { staggerContainer, fadeIn, planetVariants } from "../utils/motion";

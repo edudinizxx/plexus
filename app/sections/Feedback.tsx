@@ -15,25 +15,22 @@ const Feedback = () => (
     >
       <motion.div
         variants={fadeIn("right", "tween", 0.2, 1)}
-        className="flex-[0.5] lg:max-w-[370px] flex justify-end flex-col gradient-05 sm:p-8 p-4 rounded-[32px] border-[1px] border-[#6A6A6A] relative"
+        className="flex-[0.5] lg:max-w-[370px] flex justify-center flex-col gradient-05 sm:p-8 p-4 rounded-[32px] border-[1px] border-[#6A6A6A] relative"
       >
         <div className="feedback-gradient" />
         <div>
-          <h4 className="font-bold sm:text-[32px] text-[26px] sm:leading-[40px] leading-[36px] text-white">
+          <h4 className="font-bold sm:text-[37px] text-[37px]  text-white groupc">
           Você está 
 pronto para a transformação?
           </h4>
+         
         </div>
-        <p className="mt-[16px] font-normal sm:text-[24px] text-[18px] sm:leading-[45px] leading-[39px] text-white">
+        <p className="mt-[16px] font-normal sm:text-[16px] text-[18px] text-white my-5 leading-7">
         Você está pronto para uma jornada incrível rumo ao seu potencial máximo? Chegou o momento de decolarmos juntos em direção ao sucesso que você merece!
         </p>
-        <button
-          type="button"
-          className="flex items-center h-fit py-4 px-6 bg-[#ffffff29] rounded-[32px] gap-[12px] buttoncontato"
-        >
-          <span className="font-normal text-[16px] text-white uppercase">
-            Entrar em contato
-          </span>
+
+        <button className="fefefe text-sm text-white w-60 h-12 rounded-3xl">
+          Entrar em contato
         </button>
       </motion.div>
       <motion.div
@@ -41,11 +38,11 @@ pronto para a transformação?
         className="relative flex-1 flexCenter"
       >
         <Image
-          src="/planet-09.png"
+          src="/mask.png"
           width={1000}
           height={1000}
           priority={true}
-          alt="planet-09"
+          alt="mask"
           className="w-full lg:h-[610px] h-auto min-h-[210px] object-cover rounded-[40px]"
         />
         <motion.div

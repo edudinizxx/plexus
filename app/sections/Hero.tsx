@@ -6,7 +6,7 @@ import { motion } from "framer-motion";
 import { slideIn, staggerContainer, textVariant } from "../utils/motion";
 
 const Hero = () => (
-  <section className="yPaddings sm:pl-16 pl-6">
+  <section className="Paddings sm:pl-16 pl-6">
     <motion.div
       variants={staggerContainer(0.25, 0.25)}
       initial="hidden"

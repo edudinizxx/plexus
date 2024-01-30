@@ -17,6 +17,7 @@ html {
   text-size-adjust: 100%;
 }
 
+
  /* .gradient-01 {
   background-image: linear-gradient(
     270deg,
@@ -52,7 +53,7 @@ html {
   font-size: 46px;
   color: #fff;
   font-weight: bold;
-  margin-top: 73px;
+  margin-top: 52px;
 }
 
 .sm\:max-w-\[250px\] {
@@ -73,6 +74,36 @@ html {
   background: #F74F00;
   filter: blur(190px);
 }
+.fefefe {
+  background-color: #66728c47;
+}
+.groupc {
+  line-height: 3.5rem;
+}
+.text-start {
+  padding-bottom: 20px;
+}
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+
+  /* Center slide text vertically */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
 
 .glassmorphism {
   background: rgba(255, 255, 255, 0.25);
@@ -81,16 +112,18 @@ html {
   backdrop-filter: blur(4px);
   border: 1px solid rgba(255, 255, 255, 0.18);
 }
-
+.px-2 {
+  max-width: 38rem;
+}
 .gradient-03 {
   position: absolute;
   width: 404px;
   height: 800px;
   left: 20%;
-  top: 5%;
+  top: 1%;
   background: #3f32dc42;
   filter: blur(175px);
-  transform: rotate(-114.2deg);
+  transform: rotate(-84.2deg);
 }
 
 .gradient-04 {
@@ -135,11 +168,6 @@ html {
   filter: blur(150px);
 }
 
-.buttoncontato {
-  margin-top: 27px;
-  display: block;
-}
-
 @layer utilities {
   /* STYLES */
   .innerWidth {
@@ -164,7 +192,7 @@ html {
     @apply sm:pb-16 xs:pb-8 pb-12;
   }
   .flexCenter {
-    @apply flex justify-center items-center;
+    @apply flex justify-between items-center;
   }
   .flexStart {
     @apply flex justify-start items-start;

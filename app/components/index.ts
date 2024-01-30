@@ -3,6 +3,7 @@ import { TypingText, TitleText } from "./CustomTexts";
 import ExploreCard from "./ExploreCard";
 import StartSteps from "./StartSteps";
 import NewFeatures from "./NewFeatures";
+import AccorDeon from "./AccorDeon";
 import InsightCard from "./InsightCard";
 import Footer from "./Footer";
 
@@ -14,5 +15,6 @@ export {
   NewFeatures,
   ExploreCard,
   InsightCard,
+  AccorDeon,
   Footer,
 };

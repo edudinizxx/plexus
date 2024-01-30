@@ -9,6 +9,7 @@ import {
   WhatsNew,
   World,
 } from "./sections";
+import {AccorDeon} from "./components";
 
 export default function Home() {
   return (
@@ -28,6 +29,7 @@ export default function Home() {
       <World />
       <section className="relative">
         <Insights />
+        <AccorDeon />
         <div className="gradient-03 z-0" />
         <Feedback />
       </section>
