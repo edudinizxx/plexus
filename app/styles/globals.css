@@ -3,6 +3,7 @@
 @tailwind utilities;
 
 @import url('./font.css');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,500;0,600;0,700;0,800;0,900;1,100;1,600;1,700;1,800;1,900&display=swap');
 
 * {
   margin: 0;
@@ -58,6 +59,10 @@ html {
 
 .sm\:max-w-\[250px\] {
   max-width: 360px !important;
+}
+
+.font-fami {
+  font-family: 'Poppins', sans-serif;
 }
 
 .lg\:rotate-\[-90deg\] {
