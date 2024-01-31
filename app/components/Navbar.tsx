@@ -12,21 +12,14 @@ const Navbar = () => (
       whileInView="show"
       className="xPaddings py-8 relative"
     >
-      <div className="absolute w-[50%] inset-0 gradient-01" />
-      <div className="innerWidth mx-auto flex justify-between gap-8">
+      <div className="absolute w-[50%] inset-0 gradient-01 " />
+      <div className="innerWidth mx-auto flex gap-8 justify-center">
         <Image
           src="/logo.png"
           width={136}
           height={100}
           alt="search"
-          className="object-contain"
-        />
-        <Image
-          src="/menu.svg"
-          width={24}
-          height={24}
-          alt="menu"
-          className="object-contain"
+          className="object-contain "
         />
       </div>
     </motion.nav>

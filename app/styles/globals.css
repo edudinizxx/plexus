@@ -60,9 +60,9 @@ html {
   max-width: 360px !important;
 }
 
-.lg\:bottom-20 {
-  bottom: 14rem !important;
-  width: 442px;
+.lg\:rotate-\[-90deg\] {
+  width: 38rem;
+  bottom: 20rem !important;
 }
 
 .gradient-02 {
@@ -192,7 +192,7 @@ html {
     @apply sm:pb-16 xs:pb-8 pb-12;
   }
   .flexCenter {
-    @apply flex justify-between items-center;
+    @apply flex justify-center items-center;
   }
   .flexStart {
     @apply flex justify-start items-start;
