@@ -1,7 +1,6 @@
 "use client";
 
-import Image from "next/image";
-import Link from "next/link";
+import { Suspense } from 'react';
 import { motion } from "framer-motion";
 import { slideIn, staggerContainer, textVariant } from "../utils/motion";
 
@@ -19,15 +18,14 @@ const Hero = () => (
         Desenvolvemos sites e <br /> sistemas sob medida para o <br /> seu sucesso online!
         </motion.h1>
       </div>
-      <motion.div
-        variants={slideIn("right", "tween", 0.2, 1)}
+      <div
         className="relative w-full md:-mt-[20px] -mt-[12px]"
       >
         <div className="fef" />
-        <video autoPlay loop style={{ width: '100%', height: '100%' }}>
+        <video autoPlay style={{ width: '100%', height: '100%' }}>
         <source src="/video.mp4" />
       </video>
-      </motion.div>
+      </div>
     </motion.div>
   </section>
 );
