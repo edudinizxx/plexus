@@ -9,7 +9,7 @@ const AccorDeon = () => {
   "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.";
 
 return (
- <div className="container mx-auto mt-14">
+ <div className="container mx-auto mt-14 mt-36">
    <TypingText title="| FAQ" textStyles="text-center" />
    <TitleText
         title={

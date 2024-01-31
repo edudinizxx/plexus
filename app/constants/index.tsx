@@ -35,19 +35,19 @@ export const startingFeatures = [
 
 export const newFeatures = [
   {
-    imgUrl: "/fram.png",
+    imgUrl: "/camera.svg",
     title: "Alinhamento",
     subtitle:
       "Essa troca de ideias nos permite criar uma base sólida para desenvolver estratégias de marketing digital personalizadas, alinhadas às suas metas e valores.",
   },
   {
-    imgUrl: "/frame2.png",
+    imgUrl: "/lapis.svg",
     title: "Contrato",
     subtitle:
       "Nosso contrato é elaborado de maneira clara e abrangente, delineando os serviços prestados, prazos, responsabilidades e termos financeiros.",
   },
   {
-    imgUrl: "/frame3.png",
+    imgUrl: "/doc.svg",
     title: "Briefing",
     subtitle:
       "Isso nos permite aprofundar nossa compreensão sobre sua empresa, público-alvo, concorrência e expectativas específicas.",

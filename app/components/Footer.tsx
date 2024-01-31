@@ -21,7 +21,7 @@ const Footer = () => (
         </h4>
         <button
           type="button"
-          className="flex items-center h-fit py-4 px-6 bg-gradient-to-r from-purple-600 via-amber-600 to-amber-400 rounded-[32px] gap-[12px]"
+          className="flex items-center h-fit py-4 px-6 bg-gradient-to-r from-violet-900 via-orange-700 to-orange-700 rounded-[32px] gap-[12px]"
         >
           <Image
             src="/bi_headset-vr.png"
