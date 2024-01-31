@@ -23,7 +23,7 @@ const Footer = () => (
           Politicas de Privacidade
           </p>
           <p className="font-normal text-[14px]  text-white opacity-50">
-          2020 - 2024 Agência Plexus. All rights reserved.
+          CNPJ: 45.246.515/0001-04
           </p>
         </div>
       </div>
