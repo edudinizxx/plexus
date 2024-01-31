@@ -22,7 +22,7 @@ const Hero = () => (
         className="relative w-full md:-mt-[20px] -mt-[12px]"
       >
         <div className="fef" />
-        <video autoPlay style={{ width: '100%', height: '100%' }}>
+        <video autoPlay loop style={{ width: '100%', height: '100%' }}>
         <source src="/video.mp4" />
       </video>
       </div>
