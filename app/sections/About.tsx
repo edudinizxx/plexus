@@ -14,7 +14,7 @@ const About = () => (
       initial="hidden"
       whileInView="show"
       viewport={{ once: false, amount: 0.25 }}
-      className="innerWidth mx-auto flexCenter flex-col"
+      className="innerWidth mx-auto flexCenter flex-col mt-32"
     >
       <TypingText title="| Sobre nós" textStyles="text-center" />
 

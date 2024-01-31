@@ -23,9 +23,7 @@ const Hero = () => (
         className="relative w-full md:-mt-[20px] -mt-[12px]"
       >
         <div className="fef" />
-        <video autoPlay style={{ width: '100%', height: '100%' }}>
-        <source src="/movie.mp4" />
-      </video>
+        <video src={require('../../public/video.mp4')} autoPlay muted loop className="w-ful h-ful" />
       </div>
     </motion.div>
   </section>
