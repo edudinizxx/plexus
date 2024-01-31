@@ -1,6 +1,7 @@
 "use client";
 
-import { Suspense } from 'react';
+import Image from "next/image";
+import Link from "next/link";
 import { motion } from "framer-motion";
 import { slideIn, staggerContainer, textVariant } from "../utils/motion";
 
@@ -23,7 +24,7 @@ const Hero = () => (
       >
         <div className="fef" />
         <video autoPlay loop style={{ width: '100%', height: '100%' }}>
-        <source src="/video.mp4" />
+        <source src="/movie.mp4" />
       </video>
       </div>
     </motion.div>
