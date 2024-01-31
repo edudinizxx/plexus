@@ -38,7 +38,7 @@ pronto para a transformação?
         className="relative flex-1 flexCenter"
       >
         <Image
-          src="/mask.png"
+          src="/cta.jpg"
           width={1000}
           height={1000}
           priority={true}
@@ -50,7 +50,7 @@ pronto para a transformação?
           className="lg:block hidden absolute -left-[10%] top-[3%]"
         >
           <Image
-            src="/stamp.png"
+            src="/redo.svg"
             width={155}
             height={155}
             priority={true}

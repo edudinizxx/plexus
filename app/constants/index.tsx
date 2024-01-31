@@ -1,28 +1,23 @@
 export const exploreWorlds = [
   {
     id: "world-1",
-    imgUrl: "/new2.jpg",
+    imgUrl: "/web.jpg",
     title: "Sites, Landing page, Ecommerces",
   },
   {
     id: "world-2",
-    imgUrl: "/new1.jpg",
-    title: "Gestão de redes",
-  },
-  {
-    id: "world-3",
-    imgUrl: "/new5.jpg",
-    title: "Tráfego pago",
+    imgUrl: "/artes.jpg",
+    title: "Artes de alto padrão",
   },
   {
     id: "world-4",
-    imgUrl: "/new3.jpg",
+    imgUrl: "/app.jpg",
     title: "Aplicativos e sistemas",
   },
   {
     id: "world-5",
-    imgUrl: "/new4.jpg",
-    title: "Criativo para redes sociais",
+    imgUrl: "/sites.jpg",
+    title: "Manutençção em sites",
   },
 ];
 
