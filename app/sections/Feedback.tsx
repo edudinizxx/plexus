@@ -4,6 +4,7 @@ import Image from "next/image";
 import { motion } from "framer-motion";
 import { fadeIn, staggerContainer, zoomIn } from "../utils/motion";
 
+
 const Feedback = () => (
   <section className="paddings relative z-10">
     <motion.div

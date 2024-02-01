@@ -25,7 +25,7 @@ const About = () => (
         <span className="font-extrabold text-white">Plexus</span> nossa trajetória é forjada no mundo digital. Nossa equipe multidisciplinar de especialistas em data science, comunicação e tecnologia opera de forma sinérgica, aplicando nossa metodologia exclusiva. Planejamos, executamos e monitoramos estratégias voltadas para conquistar resultados ainda mais impactantes para o seu negócio
       </motion.p>
       <motion.div variants={fadeIn("up", "tween", 0.3, 1)}>
-        <Link href="#explore">
+        <Link href="#">
           <Image
             src="/arrow-down.svg"
             width={18}

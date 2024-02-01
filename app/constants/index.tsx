@@ -17,7 +17,7 @@ export const exploreWorlds = [
   {
     id: "world-5",
     imgUrl: "/sites.jpg",
-    title: "Manutençção em sites",
+    title: "Manutenção em sites",
   },
 ];
 

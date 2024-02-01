@@ -35,9 +35,9 @@ html {
 .hero-gradient {
   background: linear-gradient(
     97.86deg,
-    #a509ff 0%,
-    #34acc7 53.65%,
-    #a134c7 100%
+    #833AB4 0%,
+    #833AB4 53.65%,
+    #833AB4 100%
   );
 }
 
@@ -71,7 +71,7 @@ html {
   height: 438px;
   top: 0px;
   right: 0px;
-  background: #F74F00;
+  background: #FF3000;
   filter: blur(190px);
 }
 .fefefe {
