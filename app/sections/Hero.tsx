@@ -15,7 +15,7 @@ const Hero = () => (
       className="innerWidth mx-auto flex flex-col"
     >
       <div className="flexCenter flex-col relative z-10 mt-[60px] mb-24">
-        <motion.h1 variants={textVariant(1.1)} className="text-7xl text-white font-bold text-center font-fami tracking-tight">
+        <motion.h1 variants={textVariant(1.1)} className="text-[65px] leading-[71px] text-white font-bold text-center font-fami tracking-tight">
         Desenvolvemos sites e <br /> sistemas sob medida para o <br /> seu sucesso online!
         </motion.h1>
       </div>
