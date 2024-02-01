@@ -88,22 +88,23 @@ Obrigado por tudo 🙏🏼
           </div>
           </div></SwiperSlide>
           <SwiperSlide><h2 className='text-left text-white font-thin mt-14 mb-9'>
-        A Plexus foi essencial para a comunicação visual do estúdio, conseguiram representar graficamente o que estava na nossa mente de forma muito clara e profissional, o resultado foi além do que esperavamos. O atendimento também foi um diferencial, sempre dispostos a ajudar e propor novas ideias. Com certeza estará com a gente nos próximos projetos.
+        Edu, já faz uns 1,5 anos que estamos trabalhando juntos, e sempre deu certo. Suas artes são demais, e as páginas que você faz são incríveis. Parabéns pelo trabalho sensacional! Vamos continuar assim por muito tempo. Sempre que preciso de algo, você manda super bem. E o legal é que o que você faz não é só bonito, mas também ajuda a vender. Isso é top! Valeu mesmo!
         </h2>
           <div className='flex'>
-          <img className='max-w-14 mr-5' src="/lety.png" alt="" />
+          <img className='max-w-14 mr-5' src="/rerisson.png" alt="" />
           <div>
-            <h1 className='text-white text-left '>Letícia Binote <p className='text-transp-white text-sm'> CEO DA LETHY ARQUITETURA </p> <p className='text-transp-white text-xs'> @Lettyarquitetura </p></h1>
+            <h1 className='text-white text-left '>Rerisson Gomes<p className='text-transp-white text-sm'>CEO M8 Marketing </p> <p className='text-transp-white text-xs'> @M8ADS </p></h1>
           </div>
           </div>
           </SwiperSlide>
         <SwiperSlide><h2 className='text-left text-white font-thin mt-14 mb-9'>
-        Um ponto importante é que a Plexus também fornece uma estrutura de pensamento estratégico para o meu negócio, e não só operacional. O Felipe entende bem de funis de venda, design, anúncios que convertem e estratégias para escalar vendas. Tenho certeza que a Plexus foi parte crucial no bom resultado que eu tive. Indico para qualquer um.
+        Fala Edu, estamos trabalhando juntos já a mais de 2 anos e gostaria de agradecer por tantos trabalhos entregues com maestria, já trabalhei com outros profissionais mas nenhum deles chegou perto do que você consegue desenvolver, você e seu time tem uma capacidade única de absorver a ideia e melhorar ela como ninguém consegue! 
+Obrigado por tudo 🙏🏼
         </h2>
           <div className='flex'>
-          <img className='max-w-14 mr-5' src="/igor.png" alt="" />
+          <img className='max-w-14 mr-5' src="/moroni.png" alt="" />
           <div>
-            <h1 className='text-white text-left '>Igor Pellacani <p className='text-transp-white text-sm'> CEO DA PELLACANI CAPITAL </p> <p className='text-transp-white text-xs'> @igorpellacani </p></h1>
+            <h1 className='text-white text-left '>Morôni Duarte <p className='text-transp-white text-sm'>CEO Pixel Digital </p> <p className='text-transp-white text-xs'> @moroniduarte1 </p></h1>
           </div>
           </div></SwiperSlide>
         <SwiperSlide><h2 className='text-left text-white font-thin mt-14 mb-9'>
