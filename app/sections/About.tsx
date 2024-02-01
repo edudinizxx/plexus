@@ -22,7 +22,7 @@ const About = () => (
         variants={fadeIn("up", "tween", 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
-        <span className="font-extrabold text-white">Plexus</span> nossa trajetória é forjada no mundo digital. Nossa equipe multidisciplinar de especialistas em data science, comunicação e tecnologia opera de forma sinérgica, aplicando nossa metodologia exclusiva. Planejamos, executamos e monitoramos estratégias voltadas para conquistar resultados ainda mais impactantes para o seu negócio
+        <span className="font-extrabold text-white"></span>Nossa trajetória é forjada no mundo digital. Nossa equipe multidisciplinar de especialistas em data science, comunicação e tecnologia opera de forma sinérgica, aplicando nossa metodologia exclusiva. Planejamos, executamos e monitoramos estratégias voltadas para conquistar resultados ainda mais impactantes para o seu negócio.
       </motion.p>
       <motion.div variants={fadeIn("up", "tween", 0.3, 1)}>
         <Link href="#">
