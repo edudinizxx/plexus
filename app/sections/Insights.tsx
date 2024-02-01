@@ -79,7 +79,7 @@ Obrigado por tudo 🙏🏼
           </div>
           </div></SwiperSlide>
         <SwiperSlide><h2 className='text-left text-white font-thin mt-14 mb-9'>
-        Quero agradecer ao time da Plexus por todo empenho, atenção e carinho com os quais você faz o seu trabalho. Pra mim fica bem nítido que além de oferecer um serviço de altíssima qualidade, você põe o seu coração no seu trabalho. Muita gratidão a vocês 🙏🏻🙏🏻🙏🏻
+        Quero agradecer ao time do Edu por todo empenho, atenção e carinho com os quais você faz o seu trabalho. Pra mim fica bem nítido que além de oferecer um serviço de altíssima qualidade, você põe o seu coração no seu trabalho. Muita gratidão a vocês 🙏🏻🙏🏻🙏🏻
         </h2>
           <div className='flex'>
           <img className='max-w-14 mr-5' src="/amanda.png" alt="" />
@@ -108,7 +108,7 @@ Obrigado por tudo 🙏🏼
           </div>
           </div></SwiperSlide>
         <SwiperSlide><h2 className='text-left text-white font-thin mt-14 mb-9'>
-        Quero agradecer ao time da Plexus por todo empenho, atenção e carinho com os quais você faz o seu trabalho. Pra mim fica bem nítido que além de oferecer um serviço de altíssima qualidade, você põe o seu coração no seu trabalho. Muita gratidão a vocês 🙏🏻🙏🏻🙏🏻
+        Quero agradecer ao time do Edu por todo empenho, atenção e carinho com os quais você faz o seu trabalho. Pra mim fica bem nítido que além de oferecer um serviço de altíssima qualidade, você põe o seu coração no seu trabalho. Muita gratidão a vocês 🙏🏻🙏🏻🙏🏻
         </h2>
           <div className='flex'>
           <img className='max-w-14 mr-5' src="/amanda.png" alt="" />
