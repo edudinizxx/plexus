@@ -4,8 +4,21 @@ import Image from "next/image";
 import { motion } from "framer-motion";
 import { navVariants } from "../utils/motion";
 
+import { FloatingWhatsApp } from 'react-floating-whatsapp'
+
 const Navbar = () => (
   <header>
+      <FloatingWhatsApp 
+        phoneNumber="559884199728"
+        accountName="Edu"
+        avatar="/logoblack.png"
+        statusMessage="Online"
+        chatMessage="Olá! Diga como podemos te ajudar? 😊"
+        placeholder="Digite aqui..."
+        darkMode
+        allowEsc
+        notification
+        notificationSound />
     <motion.nav
       variants={navVariants}
       initial="hidden"
