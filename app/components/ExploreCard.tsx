@@ -7,6 +7,7 @@ import { fadeIn } from "../utils/motion";
 type ExploreCardProps = {
   title: string;
   id: string;
+  subtitle: string;
   imgUrl: string;
   index: number;
   active: string;
@@ -18,6 +19,7 @@ const ExploreCard = ({
   id,
   imgUrl,
   index,
+  subtitle,
   active,
   handleClick,
 }: ExploreCardProps) => (
@@ -41,16 +43,8 @@ const ExploreCard = ({
           {title}
         </h3>
       ) : (
-        <div className="sm:absolute bottom-0 p-8 justify-start w-full flex flex-col bg-[rgba(0,0,0,0.5)] rounded-b-[24px]">
-          <div className="flexCenter w-[60px] h-[60px] rounded-[24px] glassmorphism mb-[16px]">
-            <Image
-              src="/star.svg"
-              width={1000}
-              height={1000}
-              alt="star"
-              className="w-1/2 h-1/2 object-contain"
-            />
-          </div>
+        <div className="sm:absolute text-white font-light text-[16px] bottom-0 p-8 justify-start w-full flex flex-col bg-[rgba(0,0,0,0.5)] rounded-b-[24px]">
+       {subtitle}
           <h2 className="mt-[24px] font-semibold sm:text-[32px] text-[24px] text-white">
             {title}
           </h2>

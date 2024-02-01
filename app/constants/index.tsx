@@ -3,21 +3,29 @@ export const exploreWorlds = [
     id: "world-1",
     imgUrl: "/web.jpg",
     title: "Sites, Landing page, Ecommerces",
+    subtitle:
+    "Descubra um universo de possibilidades online com nossa expertise na criação de sites envolventes, landing pages impactantes e e-commerces.",
   },
   {
     id: "world-2",
     imgUrl: "/artes.jpg",
     title: "Artes de alto padrão",
+    subtitle:
+    "Crie impacto visual e transmita sua mensagem com nossas artes de alta qualidade.",
   },
   {
     id: "world-4",
     imgUrl: "/app.jpg",
     title: "Aplicativos e sistemas",
+    subtitle:
+    "Conte com tecnologia avançada e resultados excepcionais para transformar desafios em oportunidades.",
   },
   {
     id: "world-5",
     imgUrl: "/sites.jpg",
     title: "Manutenção em sites",
+    subtitle:
+    "Mantenha seu site sempre eficiente e seguro com nossos serviços de manutenção especializados.",
   },
 ];
 
