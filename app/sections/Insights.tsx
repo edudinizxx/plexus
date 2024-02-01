@@ -84,7 +84,7 @@ Obrigado por tudo 🙏🏼
           <div className='flex'>
           <img className='max-w-14 mr-5' src="/amanda.png" alt="" />
           <div>
-            <h1 className='text-white text-left '>Amanda Soares<p className='text-transp-white text-sm'>CEO DO LABORATÓRIO A.S</p> <p className='text-transp-white text-xs'>@amanda.soaresbr</p></h1>
+            <h1 className='text-white text-left '>Amanda Soares<p className='text-transp-white text-sm'>Pediatra</p> <p className='text-transp-white text-xs'>@amanda.soaresbr</p></h1>
           </div>
           </div></SwiperSlide>
           <SwiperSlide><h2 className='text-left text-white font-thin mt-14 mb-9'>
@@ -113,7 +113,7 @@ Obrigado por tudo 🙏🏼
           <div className='flex'>
           <img className='max-w-14 mr-5' src="/amanda.png" alt="" />
           <div>
-            <h1 className='text-white text-left '>Amanda Soares<p className='text-transp-white text-sm'>CEO DO LABORATÓRIO A.S</p> <p className='text-transp-white text-xs'>@amanda.soaresbr</p></h1>
+            <h1 className='text-white text-left '>Amanda Soares<p className='text-transp-white text-sm'>Pediatra</p> <p className='text-transp-white text-xs'>@amanda.soaresbr</p></h1>
           </div>
           </div></SwiperSlide>
         
