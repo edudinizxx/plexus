@@ -24,8 +24,8 @@ const Navbar = () => (
       initial="hidden"
       whileInView="show"
       className="xPaddings py-8 relative"
-    >
-      <div className="absolute w-[50%] inset-0 gradient-01 gradient-02 hero-gradient z-0 " />
+    > <div className="gradient-11"></div>
+      <div className="absolute w-[50%] inset-0 gradient-10 hero-gradient z-0 " />
       <div className="innerWidth flex gap-8 justify-center ">
         <Image
           src="/logo.svg"

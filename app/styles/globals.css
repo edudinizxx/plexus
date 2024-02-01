@@ -74,6 +74,35 @@ html {
   background: #FF3000;
   filter: blur(190px);
 }
+
+.gradient-10 {
+  position: absolute;
+  width: 342px;
+  height: 408px;
+  top: 0px;
+  right: 0px;
+  background: #FF3000;
+  filter: blur(125px);
+  z-index: 1;
+  margin-top: -17rem;
+  margin-left: -7rem;
+}
+
+.gradient-11 {
+  position: absolute;
+  width: 504px;
+  height: 601px;
+  top: 0px;
+  right: 0px;
+  background: #833AB4;
+  filter: blur(125px);
+  margin-top: -31rem;
+  z-index: 1;
+  margin-right: 52rem;
+}
+.object-contain {
+  z-index: 99;
+}
 .fefefe {
   background-color: #66728c47;
 }
