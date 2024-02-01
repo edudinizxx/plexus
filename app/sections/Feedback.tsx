@@ -30,7 +30,7 @@ pronto para a transformação?
         Você está pronto para uma jornada incrível rumo ao seu potencial máximo? Chegou o momento de decolarmos juntos em direção ao sucesso que você merece!
         </p>
 
-        <button className="fefefe text-sm text-white w-60 h-12 rounded-3xl">
+        <button className="bg-gradient-to-r from-amber-700 via-orange-700 to-fuchsia-600 text-sm text-white w-60 h-12 rounded-3xl">
           Entrar em contato
         </button>
       </motion.div>
