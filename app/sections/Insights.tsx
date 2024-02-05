@@ -53,7 +53,12 @@ const Insights = () => (
     </motion.h1>
     </motion.div>
     <motion.div>
-      <Swiper
+      <Swiper   breakpoints={{
+        320: { slidesPerView: 1, spaceBetween: 80 },
+        480: { slidesPerView: 1, spaceBetween: 150 },
+        768: { slidesPerView: 3, spaceBetween: 50 },
+        1024: { slidesPerView: 3, spaceBetween: 150 },
+      }}
         slidesPerView={3}
         spaceBetween={30}
        

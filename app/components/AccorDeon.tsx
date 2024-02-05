@@ -30,7 +30,7 @@ return (
         textStyles="text-center mb-10 mt-8"
       />
    <div >
-    <div className="flex justify-center  mb-20">  
+    <div className="md:flex justify-center  mb-20">  
     <div className="text-white font-light">
     <Accordion>
       <AccordionItem key="1" aria-label="Accordion 1" title="Onde posso ver seu portfólio de design?">

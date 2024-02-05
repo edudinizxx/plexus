@@ -17,7 +17,7 @@ const Footer = () => (
     <div className="innerWidth mx-auto flex flex-col gap-8">
       <div className="flex flex-col">
         <div className="mb-[50px] h-[2px] bg-white opacity-10" />
-        <div className=" flex justify-between items-center flex-wrap gap-8">
+        <div className=" flex justify-between items-center md:flex-wrap gap-8">
          <img src="/logo.svg" alt="" />
          <p className="font-normal text-[14px] text-white opacity-50">
           Politicas de Privacidade
