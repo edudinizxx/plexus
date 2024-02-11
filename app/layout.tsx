@@ -3,8 +3,8 @@ import "./styles/globals.css";
 
 
 export const metadata: Metadata = {
-  title: "Plexus",
-  description: "Plexus Landing Page",
+  title: "Edu",
+  description: "Edu Landing Page",
 };
 
 export default function RootLayout({
